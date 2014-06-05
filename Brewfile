@@ -4,7 +4,7 @@ brew 'ruby-build'
 brew 'byobu'
 
 # setup brew cask
-tap 'aibou/cask'
+tap 'caskroom/cask'
 brew 'brew-cask'
 
 # cask packages
